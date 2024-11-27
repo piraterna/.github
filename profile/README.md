@@ -1,5 +1,8 @@
 # Piraterna
 
+![image](https://github.com/user-attachments/assets/9376dda2-85e8-46d9-ba85-710a9da201a8)
+
+
 Welcome to **Piraterna**!  
 We are a non-political, non-profit organization based in Sweden, dedicated to promoting freedom through **100% open-source** and **free software**. Our mission is to create tools, libraries, and projects that empower users, respect their privacy, and foster collaboration.
 
